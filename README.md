@@ -1,5 +1,5 @@
 # Ballot
-> Solidity示例智能合约“Ballot"，”Ballot"的修改版本，利用Remix对合约进行部署测试
+> Solidity示例智能合约“Ballot"和”Ballot"的修改版本，利用Remix对合约进行部署测试
 
 合约设计思路：[readme/design.md](readme/design.md)
 
